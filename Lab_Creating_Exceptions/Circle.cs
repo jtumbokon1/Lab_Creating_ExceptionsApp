@@ -8,6 +8,7 @@ namespace Lab_Creating_Exceptions
 {
     public class Circle
     {
+        //private data
         private double radius;
         private const double MAX_RADIUS = 20;
 
@@ -30,6 +31,8 @@ namespace Lab_Creating_Exceptions
                 throw new InvalidRadiusException(newRadius, MAX_RADIUS);
             }
         }
+
+        //public methods
         public override string ToString()
         {
             return $"Circle[radius={radius}]";
