@@ -1,0 +1,5 @@
+Invalid radius 25: must be between 0 and 20
+Invalid radius -20: must be non-negative
+Circle[radius=20]
+Circle[radius=10]
+Circle[radius=0]
