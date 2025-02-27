@@ -12,7 +12,7 @@ namespace Lab_Creating_Exceptions
         private const double MAX_RADIUS = 20;
         
         //constructor
-        public Cricle(double newRadius)
+        public Circle(double newRadius)
         {
             //If the newRadius is within the valid range, the constructor sets the radius to be the newRadius value.  
             if (newRadius > 0 && newRadius <= MAX_RADIUS)
