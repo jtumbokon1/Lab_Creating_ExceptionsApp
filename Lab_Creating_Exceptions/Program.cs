@@ -1,5 +1,5 @@
 ﻿/*
- * CPRG-211-C Lab Interfaces and Abstract Classes
+ * CPRG-211-C Lab Creating Exceptions
  * Author: Jirch Tumbokon
  * When: Winter 2025
  */
